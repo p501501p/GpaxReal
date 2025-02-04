@@ -1,0 +1,16 @@
+D:\object programming\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.exe
+D:\object programming\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.deps.json
+D:\object programming\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.runtimeconfig.json
+D:\object programming\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.dll
+D:\object programming\Gpax\Gpax\bin\Debug\net8.0-windows\Gpax.pdb
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.Form1.resources
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.csproj.GenerateResource.cache
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.GeneratedMSBuildEditorConfig.editorconfig
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.AssemblyInfoInputs.cache
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.AssemblyInfo.cs
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.csproj.CoreCompileInputs.cache
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.dll
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\refint\Gpax.dll
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.pdb
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\Gpax.genruntimeconfig.cache
+D:\object programming\Gpax\Gpax\obj\Debug\net8.0-windows\ref\Gpax.dll

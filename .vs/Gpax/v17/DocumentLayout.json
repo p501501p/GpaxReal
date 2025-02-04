@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\object programming\\Gpax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DBE2E-38D7-4059-88ED-BB5E89EA75B2}|Gpax\\Gpax.csproj|d:\\object programming\\gpax\\gpax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E57DBE2E-38D7-4059-88ED-BB5E89EA75B2}|Gpax\\Gpax.csproj|solutionrelative:gpax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DBE2E-38D7-4059-88ED-BB5E89EA75B2}|Gpax\\Gpax.csproj|d:\\object programming\\gpax\\gpax\\gpaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DBE2E-38D7-4059-88ED-BB5E89EA75B2}|Gpax\\Gpax.csproj|solutionrelative:gpax\\gpaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DBE2E-38D7-4059-88ED-BB5E89EA75B2}|Gpax\\Gpax.csproj|d:\\object programming\\gpax\\gpax\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DBE2E-38D7-4059-88ED-BB5E89EA75B2}|Gpax\\Gpax.csproj|solutionrelative:gpax\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DBE2E-38D7-4059-88ED-BB5E89EA75B2}|Gpax\\Gpax.csproj|d:\\object programming\\gpax\\gpax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DBE2E-38D7-4059-88ED-BB5E89EA75B2}|Gpax\\Gpax.csproj|solutionrelative:gpax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\object programming\\Gpax\\Gpax\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Gpax\\Form1.Designer.cs",
+              "ToolTip": "D:\\object programming\\Gpax\\Gpax\\Form1.Designer.cs",
+              "RelativeToolTip": "Gpax\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:34:30.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\object programming\\Gpax\\Gpax\\Form1.cs",
+              "RelativeDocumentMoniker": "Gpax\\Form1.cs",
+              "ToolTip": "D:\\object programming\\Gpax\\Gpax\\Form1.cs",
+              "RelativeToolTip": "Gpax\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA1wBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:30:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gpaxcalculator.cs",
+              "DocumentMoniker": "D:\\object programming\\Gpax\\Gpax\\Gpaxcalculator.cs",
+              "RelativeDocumentMoniker": "Gpax\\Gpaxcalculator.cs",
+              "ToolTip": "D:\\object programming\\Gpax\\Gpax\\Gpaxcalculator.cs",
+              "RelativeToolTip": "Gpax\\Gpaxcalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:29:44.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\object programming\\Gpax\\Gpax\\Form1.cs",
+              "RelativeDocumentMoniker": "Gpax\\Form1.cs",
+              "ToolTip": "D:\\object programming\\Gpax\\Gpax\\Form1.cs [Design]",
+              "RelativeToolTip": "Gpax\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:28:49.476Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
